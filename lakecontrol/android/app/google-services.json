@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238480179628",
+    "firebase_url": "https://lakecontrol-fe612-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lakecontrol-fe612",
+    "storage_bucket": "lakecontrol-fe612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238480179628:android:37dac1053bccfd0d80fa09",
+        "android_client_info": {
+          "package_name": "com.example.lakecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238480179628-aeqaqhgemonvliqu342rgaime7cv33pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbRmGGcBOM9dFb8TyA07yhgrpO3tc5UHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238480179628-aeqaqhgemonvliqu342rgaime7cv33pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
